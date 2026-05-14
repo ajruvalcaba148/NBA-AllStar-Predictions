@@ -6,7 +6,7 @@ NBA All-Star selections are often influenced by non-statistical factors like mar
 * Identify "Snubs": Highlight players with high statistical probabilities who were overlooked by voters. 
 * Quantify Impact: Determine which metrics (VORP, Win Shares, Usage %) most strongly correlate with the "All-Star" brand.🛠️ 
 ## Technical Stack & Methodology
-*Language: Python
+* Language: Python
 *Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn, Joblib
 * Model: Random Forest Classifier
 
@@ -25,7 +25,7 @@ Following hyperparameter optimization, the model achieved the following metrics 
 * F1-Score:	0.81
 
 ## How to Run 
-Clone the repository: git clone [https://github.com/your-username/nba-allstar-predictor](https://github.com/ajruvalcaba148/NBA-AllStar-Predictions).git
+Clone the repository: git clone https://github.com/ajruvalcaba148/NBA-AllStar-Predictions.git
 
 Install dependencies: pip install -r requirements.txt
 
