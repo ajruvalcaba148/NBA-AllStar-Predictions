@@ -24,10 +24,13 @@ Following hyperparameter optimization, the model achieved the following metrics 
 * Recall:	0.81
 * F1-Score:	0.81
 
-## How to Run 
+## How to Run Locally 
 Clone the repository: git clone https://github.com/ajruvalcaba148/NBA-AllStar-Predictions.git
 
+Make Virtual Enviornment: python3 -m venv .venv
+Activate Virtual Enviornment: source .venv/bin/activate
 Install dependencies: pip install -r requirements.txt
+Click Run All to run All Cells in Order
 
 Explore the notebook: Open notebooks/nba_predict.ipynb to see the data cleaning, feature importance plots, and final predictions.
 ## Future Improvements
