@@ -30,6 +30,7 @@ Clone the repository: git clone https://github.com/ajruvalcaba148/NBA-AllStar-Pr
 Make Virtual Enviornment: python3 -m venv .venv
 Activate Virtual Enviornment: source .venv/bin/activate
 Install dependencies: pip install -r requirements.txt
+Go to notebooks/nba_predict.ipynb
 Click Run All to run All Cells in Order
 
 Explore the notebook: Open notebooks/nba_predict.ipynb to see the data cleaning, feature importance plots, and final predictions.
